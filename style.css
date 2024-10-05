@@ -1,0 +1,24 @@
+html {
+  background-image: url(matrix.webp);
+  background-size: cover;
+}
+body {
+  width: 700px;
+  background-color: black;
+  color: lightgreen;
+  padding: 30px 50px;
+  border-radius: 15px;
+  border: 5px solid rgb(24, 26, 26);
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+li {
+  padding-bottom: 15px;
+}
+#multisym {
+  letter-spacing: -2px;
+}
+#pi {
+  letter-spacing: -2px;
+}
